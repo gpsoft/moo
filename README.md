@@ -16,4 +16,4 @@ Distributed under the Eclipse Public License, the same as Clojure.
 # In Japanese(日本語で)
 
 お馴染みの数当てゲームをClojureで書いてみました。テストにはMidjeを使っています。
-このプログラムを教材として、トップダウン開発の流れを紹介した電子書籍「Clojureでトップダウン開発」を近々公開予定です。
+このプログラムを教材として、トップダウン開発の流れを紹介した電子書籍「Clojureでトップダウン開発」をアマゾンで販売中です。
